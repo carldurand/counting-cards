@@ -1,0 +1,1 @@
+Add the classes animated and hinge to your body element.
